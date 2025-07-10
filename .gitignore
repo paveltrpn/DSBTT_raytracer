@@ -1,4 +1,5 @@
 build/
 bin/tracer
+bin/*.ppm
 .vscode/
 CMakeLists.txt.user
